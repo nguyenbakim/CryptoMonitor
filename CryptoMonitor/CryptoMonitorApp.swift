@@ -2,7 +2,7 @@
 //  CryptoMonitorApp.swift
 //  CryptoMonitor
 //
-//  Created by Kim Nguyen on 22.02.25.
+//  Created by Kim Nguyen on 22.02.24.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct CryptoMonitorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CryptoListView()
         }
     }
 }

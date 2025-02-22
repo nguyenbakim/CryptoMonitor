@@ -2,7 +2,7 @@
 //  CryptoMonitorUITestsLaunchTests.swift
 //  CryptoMonitorUITests
 //
-//  Created by Kim Nguyen on 22.02.25.
+//  Created by Kim Nguyen on 22.02.24.
 //
 
 import XCTest
